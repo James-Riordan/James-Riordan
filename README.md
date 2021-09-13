@@ -1,7 +1,7 @@
 <h1 align='center'> Hi! 🚀</h1>
 
 
-<p align='center'> I am a Full Stack Software Developer specializing in compiled languages and minimalistic frameworks such as Go, Svelte, and TypeScript.</p>
+<p align='center'> I'm a Full Stack Software Developer specializing in compiled languages and minimalistic frameworks such as Go, Svelte, and TypeScript.</p>
 
 <div>
 <p align='center'>While <strong>"jack-of-all-trades, master of none"</strong> is a good warning, it's my belief that it's better to use the right tools for the job. Working in a compiled tech stack makes integration with new technologies seemless.</p>
