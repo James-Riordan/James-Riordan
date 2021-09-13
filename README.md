@@ -1,8 +1,5 @@
-<div>
-<img height="300" width="100%" src="https://media.giphy.com/media/xUPGcshrKRahaS8ef6/giphy.gif?cid=ecf05e47toet1hmihflf83b5zb0r5r4pbu6q9ulhh8d8lbzw&rid=giphy.gif&ct=g">
-
 <h1 align='center'> Hi! :wave:</h1>
-</div>
+
 
 <p align='center'> I am a Full Stack Software Developer specializing in compiled languages and minimalistic frameworks such as Go, Svelte, and TypeScript.</p>
 
@@ -27,13 +24,14 @@
   </a>
   
 </div>
-
+   
+<div align="center">
 <a href="https://github.com/James-Riordan/James-Riordan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-Riordan&hide=vue,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
-
-
+  
 **Languages and Tools:**  
+ 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/golang/golang.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -47,4 +45,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nginx/nginx.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/apache/kafka.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-
+</div>
+                                                                                                                      
+                                                                                                                   
+                                                                                                                       
+                                                                                                                    
+                                                                                                                                               
+                                                                                                                  
+                                                                                                                                               
+                                                                                                                                          
