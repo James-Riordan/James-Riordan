@@ -1,4 +1,4 @@
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'> Hi! 🚀</h1>
 
 
 <p align='center'> I am a Full Stack Software Developer specializing in compiled languages and minimalistic frameworks such as Go, Svelte, and TypeScript.</p>
