@@ -12,9 +12,6 @@
     <a href="https://www.linkedin.com/in/james-riordan-2a7902200/">
       <img alt="James' LinkedIN" width="35px"          src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
-    <a href="https://www.instagram.com/jim.bology/">
-      <img alt="James' Instagram" width="35px"   src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
-    </a>
     <a href="mailto:jamesriordan39@gmail.com">
       <img alt="James' Gmail" width="35px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />
     </a>
