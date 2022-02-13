@@ -1,7 +1,7 @@
 <h1 align='center'> Hi! 🚀</h1>
 
 
-<p align='center'> I'm a Full Stack & Cloud Engineer. I use tools like Kubernetes, alongside many other awesome open-source tools to build ecosystems with the emphasis on a safe and fast development cycle, observability, scalability, and ease of management. </p>
+<p align='center'> I'm a Full Stack & Cloud Engineer. I specialize in creating robust microservice development ecosystems. This is achieved with an opinionated microservices implementation of open-source tools. These ecosystems offer cluster observability, rapid & safe development, observability, scalability, ease of management, automation of... well everything!.. all with minimal overhead costs compared to alternative deployment options. </p>
 
 
 <div align="center">
