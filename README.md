@@ -1,7 +1,7 @@
 <h1 align='center'> Hi! 🚀</h1>
 
 
-<p align='center'> I'm a Full Stack & Cloud Engineer. I specialize in creating robust microservice development ecosystems. This is achieved with an opinionated microservices implementation of open-source tools. These ecosystems offer cluster observability, rapid & safe development, observability, scalability, ease of management, automation of... well everything!.. all with minimal overhead costs compared to alternative deployment options. </p>
+<p align='center'> I'm a Full Stack & Cloud Engineer. I specialize in creating robust microservice development ecosystems. This is achieved with an opinionated microservices implementation of open-source tools, such as (but not limited to) Kubernetes, Terraform, NGINX, TypeScript app(Apollo GraphQL/REST), Go app, . These ecosystems offer cluster observability, rapid & safe development, observability, scalability, ease of management, all with minimal overhead costs compared to alternative deployment options. </p>
 
 
 <div align="center">
