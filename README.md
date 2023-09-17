@@ -10,7 +10,7 @@
       <img alt="James' LinkedIn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
     </a>
     <a href="mailto:jamesriordan39@gmail.com">
-      <img alt="Gmail" width="35px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />
+      <img alt="Gmail" width="35px" src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
     </a>
   </div>
   <a href="https://jamesriordan.dev">
