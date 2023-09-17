@@ -7,10 +7,10 @@
 <div align="center">
   <div>
     <a href="https://www.linkedin.com/in/james-riordan-2a7902200/">
-      <img alt="James' LinkedIn" width="35px"          src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)" />
+      <img alt="James' LinkedIn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
     </a>
     <a href="mailto:jamesriordan39@gmail.com">
-      <img alt="James' Gmail" width="35px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />
+      <img alt="Gmail" width="35px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />
     </a>
   </div>
   <a href="https://jamesriordan.dev">
@@ -41,13 +41,4 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" src="https://pipedream.com/s.v0/app_1dBhP3/logo/96"></code>
 <code><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png"></code>
- 
-</div>
-                                                                                                                      
-                                                                                                                   
-                                                                                                                       
-                                                                                                                    
-                                                                                                                                               
-                                                                                                                  
-                                                                                                                                               
-                                                                                                                                          
+</div>           
