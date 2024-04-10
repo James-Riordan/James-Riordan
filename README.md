@@ -12,12 +12,8 @@ I like all things Science, Mathematics, Physics, Engineering.
       <img alt="James' LinkedIn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
     </a>
     <a href="mailto:jamesriordan39@gmail.com">
-      <img alt="Gmail" width="35px" src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
+      <img alt="Gmail" width="35px" src="https://www.cdnlogo.com/logos/g/24/gmail-icon.svg" />
     </a>
-  </div>
-  <a href="https://jamesriordan.dev">
-    <img width="300" height="300" src="https://media.giphy.com/media/3ohhwjCvlkO6qGX6Ra/giphy.gif">
-  </a>
 </div>
    
 <div align="center">
