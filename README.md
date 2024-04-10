@@ -1,7 +1,9 @@
 <h1 align='center'> Hi! 🚀</h1>
 
 
-<p align='center'> I'm a Full Stack / Platform Engineer with expertise in building scalable, distributed systems on the cloud. My focus is on creating Internal Developer Platforms (IDPs) that enable development teams to "shift left" and empower themselves with autonomy and self-service. By removing reliance on operations teams and providing robust tools for the entire software development lifecycle, IDPs allow developers to build, test, deploy, maintain, and monitor applications with ease. This symbiosis between app developers and platform engineers enables a host of benefits, including faster onboarding, decreased mean time to repair (MTTR), and improved systemwide observability. By weaving together cutting-edge technology, perennial ideologies, and forward-thinking business strategies, IDPs pave the way for scalable, efficient development. </p>
+<p align='center'> I'm a Full Stack / Platform Engineer with expertise in building scalable, distributed systems on the cloud.
+
+I like all things Science, Mathematics, Physics, Engineering. 
 
 
 <div align="center">
