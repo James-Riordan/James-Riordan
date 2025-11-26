@@ -1,6 +1,3 @@
-<h1 align='center'> Hi! 🚀</h1>
-
-
 <p align='center'> I'm a Full Stack / Platform Engineer with expertise in building scalable, distributed systems on the cloud. I like all things STEM, open-source, and permaculture!
 
 
