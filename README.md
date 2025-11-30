@@ -1,4 +1,4 @@
-<p align='center'> I'm a Full Stack / Platform Engineer with expertise in building scalable, distributed systems on the cloud. I like all things STEM, open-source, and permaculture!
+<p align='center'> I'm a Full Stack Engineer with expertise in building scalable, distributed systems on the cloud. I like all things STEM, open-source, and permaculture!
 
 
 <div align="center">
